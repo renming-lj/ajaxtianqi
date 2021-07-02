@@ -1,2 +1,4 @@
 # ajaxtianqi
 Ajax天气api请求
+在使用时请将数据api更改为自己的数据api使用
+数据api来源于聚合数据
